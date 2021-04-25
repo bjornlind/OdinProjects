@@ -1,0 +1,1 @@
+This repository contains the code I wrote following the Odin Project Foundations course.
